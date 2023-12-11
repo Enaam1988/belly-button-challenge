@@ -11,15 +11,11 @@ This project explores the Belly Button Biodiversity dataset, cataloging the micr
 
 2. **Clone Repository:**
    - Clone the new repository to your local machine.
-
-3. **Copy Files:**
-   - Inside your local git repository, copy the files from the **StarterCode** folder contained within the [Module 14 Challenge files](<insert link here>).
-     - Copy: index.html, samples.json, and the static folder.
-
-4. **Push to GitHub:**
+   - 
+3. **Push to GitHub:**
    - Push the changes to GitHub.
 
-5. **GitHub Pages:**
+4. **GitHub Pages:**
    - Deploy the repository to GitHub Pages.
 
 ## Running the Dashboard
