@@ -11,7 +11,7 @@ This project explores the Belly Button Biodiversity dataset, cataloging the micr
 
 2. **Clone Repository:**
    - Clone the new repository to your local machine.
-   - 
+     
 3. **Push to GitHub:**
    - Push the changes to GitHub.
 
