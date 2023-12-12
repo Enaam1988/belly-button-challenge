@@ -74,6 +74,8 @@ function charts(sample_values, otu_ids, otu_labels){
          // Bubble chart layout
         let bubble_layout = {
             title: 'Bubble Chart',
+            xaxis: {
+                title: 'OTU ID'},
             height: 550,
             width: 1000 
         };
