@@ -43,7 +43,7 @@ To run the interactive dashboard:
 
 ## Deployment
 
-The app is deployed on GitHub Pages. You can access it [here](<insert link to GitHub Pages>).
+The app is deployed on GitHub Pages. You can access it [here](<https://enaam1988.github.io/belly-button-challenge/>).
 
 ## Repository Structure
 
